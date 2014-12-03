@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GridView</string>
+    <string name="selection">选中%s个</string>
+    <string name="select_all">全选</string>
+    <string name="unselect_all">全不选</string>
+
+</resources>
